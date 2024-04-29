@@ -1,5 +1,5 @@
 html{
-    font-family: 'ZCOOL XiaoWei', serif !important;
+    font-family: '210 옴니고딕', serif !important;
   }
   .first {
     background-image: url(main.jpg);
@@ -32,15 +32,15 @@ html{
     border-top: 1px solid white;
   }
    .pink{
-     background-color: #fbb4c8;
+     background-color: #FFC6AC;
    }
   
    .green{
-     background-color: #a7c669;
+     background-color: #C4C1A4;
    }
   
    .teal {
-      background-color: #9fc5c6;
+      background-color: #9E9FA5;
    }
   
    a h2 {
