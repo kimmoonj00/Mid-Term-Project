@@ -34,7 +34,7 @@ li a{
 
 nav{
   margin-top: 6%;
-  border-top: 1px solid white;
+  border-top: 3px solid white;
 }
  .pink{
    background-color: #B5C0D0;
@@ -98,7 +98,7 @@ a:hover {
 }
 .what_to_do div {
     padding: 3%;
-    color: #f1e9e2;
+    color: #282622;
 }
 
 .what_to_do button,.four button{
