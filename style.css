@@ -1,5 +1,7 @@
 html{
-  font-family: 'SDMiSaeng', serif !important;
+  font-family: "Nanum Gothic Coding", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 .first {
   background-image: url(main.jpg);
@@ -20,7 +22,7 @@ html{
   font-size: 17px;
   display: inline-block;
   float:right;
-  padding-right: 1%;
+  padding-right: 6%;
 }
 
 li a{
