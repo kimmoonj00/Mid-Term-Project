@@ -34,15 +34,15 @@ nav{
   border-top: 1px solid white;
 }
  .pink{
-   background-color: #FFC6AC;
+   background-color: #B5C0D0;
  }
 
  .green{
-   background-color: #C4C1A4;
+   background-color: #F5E8DD;
  }
 
  .teal {
-    background-color: #9E9FA5;
+    background-color: #f8dbf2;
  }
 
  a h2 {
@@ -59,7 +59,7 @@ a:hover {
   }
 
   .green a, .pink a, .teal a{
-    padding: 6%;
+    padding: 9%;
   }
 
   .message{
