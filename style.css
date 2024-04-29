@@ -1,7 +1,7 @@
 html{
-  font-family: "Nanum Gothic Coding", monospace;
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Anton", sans-serif;
+  font-weight: 1000;
+  font-style: bold;
 }
 .first {
   background-image: url(main.jpg);
@@ -13,9 +13,12 @@ html{
 
 .first h1 {
   color: white;
+  font-family: "IBM Plex Sans KR", sans-serif;
+  font-weight: 1000;
+  font-style: bold;
 }
 
-.firt a {
+.first a {
   color: white !important;
 }
 .social li{
@@ -46,7 +49,10 @@ nav{
  }
 
  a h2 {
-   color: white;
+   color: rgb(255, 255, 255);
+   font-family: "Anton", sans-serif;
+   font-weight: 1000;
+   font-style: bold;
  }
 
 a:hover {
@@ -69,7 +75,7 @@ a:hover {
   }
 
   .message a{
-    color:black!important;
+    color:black !important;
     background-color: white;
   }
 
@@ -92,7 +98,7 @@ a:hover {
 }
 .what_to_do div {
     padding: 3%;
-    color: #222828;
+    color: #f1e9e2;
 }
 
 .what_to_do button,.four button{
